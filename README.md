@@ -4,7 +4,7 @@ Tasklist\Taskkill Project
 
 For this midterm, I was assigned the project of creating a program that would mimic the functionality of both tasklist and taskkill using C++. The code was written using Microsoft Visual Studio and is broken into three cpp files and two header files, which are included here along with the compiled executable.
 
-Simply clone this repository and open the MidtermProject.sln file at the root in Microsoft Visual Studio to edit the code and build the executable. The current build is located in the x64\Debug directory.
+Simply clone this repository and open the MidtermProject.sln file at the root in Microsoft Visual Studio to edit the code and build the executable. The current build is located here: \x64\Debug\MidtermProject.exe
 
 Launch the executable from an elevated command prompt, and you will be presented with a menu.
 
