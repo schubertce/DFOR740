@@ -1,0 +1,2 @@
+C:\Users\CSchubert-Forensics\Desktop\School\2024_Spring\DFOR740\MidtermProject\x64\Debug\MidtermProject.exe.lastcodeanalysissucceeded
+C:\Users\CSchubert-Forensics\Desktop\School\2024_Spring\DFOR740\MidtermProject\MidtermProject\x64\Debug\NativeCodeAnalysis.read.1.tlog
